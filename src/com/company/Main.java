@@ -46,6 +46,10 @@ public class Main
 
         Bird2 ptok = new Bird2();
         ptok.printName();
+
+
+
+        System.out.println("jakis tam text");
     }
 }
 
